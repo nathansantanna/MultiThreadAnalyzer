@@ -1,10 +1,6 @@
-// ThreadAnalyzer.cpp : Defines the functions for the static library.
-//
+#include "ThreadAnalyzer.h"
 
-#include "pch.h"
-#include "framework.h"
-
-// TODO: This is an example of a library function
-void fnThreadAnalyzer()
+namespace ThreadAnalyzer
 {
+
 }

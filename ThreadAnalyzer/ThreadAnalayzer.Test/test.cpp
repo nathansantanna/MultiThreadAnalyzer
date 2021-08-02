@@ -1,4 +1,5 @@
 #include "pch.h"
+#include "ThreadAnalyzer.h"
 
 TEST(TestCaseName, TestName) {
   EXPECT_EQ(1, 1);
